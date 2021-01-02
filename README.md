@@ -1,5 +1,5 @@
 # OpenChain
-## Comprehensive JavaScript blockchain
+## Comprehensive Javascript blockchain
 
 This project is based on a Udemy course by David Joseph Katz that teaches how to build, implement, test and publish a functional Blockchain and Cryptocurrency, complete with Proof-Of-Work, Mining and Transaction capability.
 
